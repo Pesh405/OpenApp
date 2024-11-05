@@ -1,0 +1,11 @@
+.class public interface abstract Lcom/chartboost/sdk/callbacks/BannerCallback;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Lcom/chartboost/sdk/callbacks/AdCallback;
+
+
+# annotations
+.annotation runtime Lkotlin/Metadata;
+.end annotation
